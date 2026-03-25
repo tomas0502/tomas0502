@@ -1,6 +1,6 @@
 ![privew](mh2HridoyGithub.jpg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300F6FF&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+MURAD+HASAN+HRIDOY;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300F6FF&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Tomas+Cooper;+Welcome+to+My+Profile!;Over+7+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
 
 ---
 <p align="center">
@@ -31,9 +31,9 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mhhridoy7907&show_icons=true&theme=radical&hide_border=true&title_color=%2300f600&icon_color=%2300f600&text_color=%2300f600&bg_color=%23000000" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=uigraslasu-png&show_icons=true&theme=radical&hide_border=true&title_color=%2300f600&icon_color=%2300f600&text_color=%2300f600&bg_color=%23000000" />
   
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mhhridoy7907&theme=radical&hide_border=true&stroke=%2300f600&background=%23000000" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=uigraslasu-png&theme=radical&hide_border=true&stroke=%2300f600&background=%23000000" />
 </p>
 
 <br>
@@ -41,7 +41,7 @@
 <h2 align="center">💻 Top Languages</h2>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhhridoy7907&layout=compact&theme=radical&hide_border=true&title_color=%2300f600&text_color=%2300f600&bg_color=%23000000" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uigraslasu-png&layout=compact&theme=radical&hide_border=true&title_color=%2300f600&text_color=%2300f600&bg_color=%23000000" />
 </p>
 
 <br>
@@ -49,7 +49,7 @@
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhhridoy7907&theme=github-compact&custom_title=Here%20is%20MH%20Hridoy's%20Contribution&hide_border=true&area=true&color=708090&line=ff69b4&point=dda0dd" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uigraslasu-png&theme=github-compact&custom_title=Here%20is%20MH%20Hridoy's%20Contribution&hide_border=true&area=true&color=708090&line=ff69b4&point=dda0dd" />
 </p>
 
 ---
@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-<a href="https://bsky.app/profile/mhhridoy7907.bsky.social">
+<a href="https://bsky.app/profile/uigraslasu-png.bsky.social">
 <img src="https://cdn.simpleicons.org/bluesky" height="48"/>
 </a>
 <a href="https://wa.me/8801962388570">
@@ -67,22 +67,22 @@
 <a href="https://www.facebook.com/mh.hridoy.567130">
 <img src="https://cdn.simpleicons.org/facebook" height="48"/>
 </a>
-<a href="https://pinterest.com/mhhridoy7907">
+<a href="https://pinterest.com/uigraslasu-png">
 <img src="https://cdn.simpleicons.org/pinterest" height="48"/>
 </a>
 <a href="https://tiktok.com/@mh2hridoy__">
 <img src="https://cdn.simpleicons.org/tiktok" height="48"/>
 </a>
-<a href="https://twitch.tv/mhhridoy7907">
+<a href="https://twitch.tv/uigraslasu-png">
 <img src="https://cdn.simpleicons.org/twitch" height="48"/>
 </a>
-<a href="https://x.com/@mhhridoy7907">
+<a href="https://x.com/@uigraslasu-png">
 <img src="https://cdn.simpleicons.org/x" height="48"/>
 </a>
 <a href="https://www.youtube.com/@mh2_hridoy">
 <img src="https://cdn.simpleicons.org/youtube" height="48"/>
 </a>
-<a href="mailto:mhhridoy7907@gmail.com">
+<a href="mailto:uigraslasu-png@gmail.com">
 <img src="https://cdn.simpleicons.org/gmail" height="48"/>
 </a>
 </p>
@@ -107,4 +107,4 @@ Small AI-based productivity and automation tools.
 
 ---
 
-⭐️ From [mhhridoy7907](https://github.com/mhhridoy7907)
+⭐️ From [uigraslasu-png](https://github.com/uigraslasu-png)
