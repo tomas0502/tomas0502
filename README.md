@@ -73,8 +73,8 @@
 <a href="https://tiktok.com/@mh2hridoy__">
 <img src="https://cdn.simpleicons.org/tiktok" height="48"/>
 </a>
-<a href="https://twitch.tv/uigraslasu-png">
-<img src="https://cdn.simpleicons.org/twitch" height="48"/>
+<a href="https://discord.com/channels/1486291026498027572/1486291027349209099">
+<img src="https://cdn.simpleicons.org/discord" height="48"/>
 </a>
 <a href="https://x.com/@uigraslasu-png">
 <img src="https://cdn.simpleicons.org/x" height="48"/>
@@ -84,6 +84,9 @@
 </a> -->
 <a href="mailto:uigraslasu@gmail.com">
 <img src="https://cdn.simpleicons.org/gmail" height="48"/>
+</a>
+<a href="https://discord.com/channels/1486291026498027572/1486291027349209099">
+<img src="https://cdn.simpleicons.org/discord" height="48"/>
 </a>
 </p>
 
