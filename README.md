@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-<a href="https://bsky.app/profile/uigraslasu-png.bsky.social">
+<!-- <a href="https://bsky.app/profile/uigraslasu-png.bsky.social">
 <img src="https://cdn.simpleicons.org/bluesky" height="48"/>
 </a>
 <a href="https://wa.me/8801962388570">
@@ -81,8 +81,8 @@
 </a>
 <a href="https://www.youtube.com/@mh2_hridoy">
 <img src="https://cdn.simpleicons.org/youtube" height="48"/>
-</a>
-<a href="mailto:uigraslasu-png@gmail.com">
+</a> -->
+<a href="mailto:uigraslasu@gmail.com">
 <img src="https://cdn.simpleicons.org/gmail" height="48"/>
 </a>
 </p>
