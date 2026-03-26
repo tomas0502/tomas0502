@@ -88,6 +88,9 @@
 <a href="https://discord.com/channels/1486291026498027572/1486291027349209099">
 <img src="https://cdn.simpleicons.org/discord" height="48"/>
 </a>
+<a href="https://t.me/TomasCooper1004">
+<img src="https://cdn.simpleicons.org/telegram" height="48"/>
+</a>
 </p>
 
 <p align="center">
