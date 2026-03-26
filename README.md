@@ -126,11 +126,11 @@
 
 <br>
 
-<h2 align="center">📈 Contribution Graph</h2>
+<!-- <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=uigraslasu-png&theme=github-compact&custom_title=Here%20is%20MH%20Hridoy's%20Contribution&hide_border=true&area=true&color=708090&line=ff69b4&point=dda0dd" />
-</p>
+</p> -->
 
 <h2># 💻 My favorite tools and technologies</h2>
 <div style="display: flex; align-items: flex-start; align: center">
