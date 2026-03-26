@@ -9,7 +9,7 @@
 
 <!-- Languages / Skills -->
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,c,cpp,webflow,AI,aws" height="60"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,c,cpp,webflow,ai,aws" height="60"/>
 </p>
 
 <!-- Tools -->
