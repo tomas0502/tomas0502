@@ -1,4 +1,4 @@
-![privew]()
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300F6FF&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Tomas+Cooper;+Welcome+to+My+Profile!;Over+7+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
 
