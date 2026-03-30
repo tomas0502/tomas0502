@@ -99,11 +99,11 @@
 </p> -->
 
 <!-- Animated Divider -->
-<p align="center">
+<!-- <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/216649436-05c9b2c3-0c9b-4c52-b0d7-3d6e1f4c0a8b.gif" width="150"/>
 </p>
 
----
+--- -->
 
 ##  GitHub Stats
 
