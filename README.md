@@ -281,7 +281,7 @@
 <img src="https://cdn.simpleicons.org/gmail" height="48"/>
 </a>
 <a href="[https://bsky.app/profile/uigraslasu-png.bsky.social](https://tomas-portfolio-xbiy.vercel.app/)">
-<img src="https://cdn.simpleicons.org/bluesky" height="48"/>
+<img src="https://cdn.simpleicons.org/website" height="48"/>
 </a>
 <a href="https://discord.com/channels/1486291026498027572/1486291027349209099">
 <img src="https://cdn.simpleicons.org/discord" height="48"/>
