@@ -251,11 +251,11 @@
 </div>
 <br/>  
 ---
-<p align="center">
+<!-- <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F6FF&center=true&vCenter=true&width=520&lines=🌐+Connect+With+Me+🌐"/>
 </p>
 
-<p align="center">
+<p align="center"> -->
 <!-- <a href="https://wa.me/8801962388570">
 <img src="https://cdn.simpleicons.org/whatsapp" height="48"/>
 </a>
@@ -277,7 +277,7 @@
 <a href="https://www.youtube.com/@mh2_hridoy">
 <img src="https://cdn.simpleicons.org/youtube" height="48"/>
 </a> -->
-<a href="mailto:uigraslasu@gmail.com">
+<!-- <a href="mailto:uigraslasu@gmail.com">
 <img src="https://cdn.simpleicons.org/gmail" height="48"/>
 </a>
 <a href="[https://bsky.app/profile/uigraslasu-png.bsky.social](https://tomas-portfolio-xbiy.vercel.app/)">
@@ -289,7 +289,7 @@
 <a href="https://t.me/TomasCooper1004">
 <img src="https://cdn.simpleicons.org/telegram" height="48"/>
 </a>
-</p>
+</p> -->
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/216649452-6e7b3d0a-5c2a-4b9a-9f37-0c64f7a3b5f0.gif" width="170"/>
