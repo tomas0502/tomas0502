@@ -256,10 +256,7 @@
 </p>
 
 <p align="center">
-<!-- <a href="https://bsky.app/profile/uigraslasu-png.bsky.social">
-<img src="https://cdn.simpleicons.org/bluesky" height="48"/>
-</a>
-<a href="https://wa.me/8801962388570">
+<!-- <a href="https://wa.me/8801962388570">
 <img src="https://cdn.simpleicons.org/whatsapp" height="48"/>
 </a>
 <a href="https://www.facebook.com/mh.hridoy.567130">
@@ -282,6 +279,9 @@
 </a> -->
 <a href="mailto:uigraslasu@gmail.com">
 <img src="https://cdn.simpleicons.org/gmail" height="48"/>
+</a>
+<a href="[https://bsky.app/profile/uigraslasu-png.bsky.social](https://tomas-portfolio-xbiy.vercel.app/)">
+<img src="https://cdn.simpleicons.org/bluesky" height="48"/>
 </a>
 <a href="https://discord.com/channels/1486291026498027572/1486291027349209099">
 <img src="https://cdn.simpleicons.org/discord" height="48"/>
