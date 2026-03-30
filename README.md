@@ -109,7 +109,7 @@
 
 
 
-<h2 align="center">📊 GitHub Stats</h2>
+<!-- <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=uigraslasu-png&show_icons=true&theme=radical&hide_border=true&title_color=%2300f600&icon_color=%2300f600&text_color=%2300f600&bg_color=%23000000" />
@@ -117,7 +117,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=uigraslasu-png&theme=radical&hide_border=true&stroke=%2300f600&background=%23000000" />
 </p>
 
-<br>
+<br> -->
 
 <h2 align="center">💻 Top Languages</h2>
 
