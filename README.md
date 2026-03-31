@@ -119,13 +119,13 @@
 
 <br> -->
 
-<h2 align="center">💻 Top Languages</h2>
+<!-- <h2 align="center">💻 Top Languages</h2>
 
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomas0502&layout=compact&theme=radical&hide_border=true&title_color=%2300f600&text_color=%2300f600&bg_color=%23000000" />
 </p>
 
-<br>
+<br> -->
 
 <!-- <h2 align="center">📈 Contribution Graph</h2>
 
