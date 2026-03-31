@@ -105,10 +105,6 @@
 
 --- -->
 
-##  GitHub Stats
-
-
-
 <!-- <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
@@ -133,7 +129,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tomas0502&theme=github-compact&custom_title=Here%20is%20MH%20Hridoy's%20Contribution&hide_border=true&area=true&color=708090&line=ff69b4&point=dda0dd" />
 </p> -->
 
-<h2># 💻 My favorite tools and technologies</h2>
+<!-- <h2># 💻 My favorite tools and technologies</h2>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -249,7 +245,7 @@
 <br><br>
 
 </div>
-<br/>  
+<br/>   -->
 <!-- --- -->
 <!-- <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F6FF&center=true&vCenter=true&width=520&lines=🌐+Connect+With+Me+🌐"/>
