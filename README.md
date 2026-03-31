@@ -112,9 +112,9 @@
 <!-- <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=uigraslasu-png&show_icons=true&theme=radical&hide_border=true&title_color=%2300f600&icon_color=%2300f600&text_color=%2300f600&bg_color=%23000000" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tomas0502&show_icons=true&theme=radical&hide_border=true&title_color=%2300f600&icon_color=%2300f600&text_color=%2300f600&bg_color=%23000000" />
   
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=uigraslasu-png&theme=radical&hide_border=true&stroke=%2300f600&background=%23000000" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tomas0502&theme=radical&hide_border=true&stroke=%2300f600&background=%23000000" />
 </p>
 
 <br> -->
@@ -122,7 +122,7 @@
 <h2 align="center">💻 Top Languages</h2>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uigraslasu-png&layout=compact&theme=radical&hide_border=true&title_color=%2300f600&text_color=%2300f600&bg_color=%23000000" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomas0502&layout=compact&theme=radical&hide_border=true&title_color=%2300f600&text_color=%2300f600&bg_color=%23000000" />
 </p>
 
 <br>
@@ -130,7 +130,7 @@
 <!-- <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uigraslasu-png&theme=github-compact&custom_title=Here%20is%20MH%20Hridoy's%20Contribution&hide_border=true&area=true&color=708090&line=ff69b4&point=dda0dd" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tomas0502&theme=github-compact&custom_title=Here%20is%20MH%20Hridoy's%20Contribution&hide_border=true&area=true&color=708090&line=ff69b4&point=dda0dd" />
 </p> -->
 
 <h2># 💻 My favorite tools and technologies</h2>
@@ -262,7 +262,7 @@
 <a href="https://www.facebook.com/mh.hridoy.567130">
 <img src="https://cdn.simpleicons.org/facebook" height="48"/>
 </a>
-<a href="https://pinterest.com/uigraslasu-png">
+<a href="https://pinterest.com/tomas0502">
 <img src="https://cdn.simpleicons.org/pinterest" height="48"/>
 </a>
 <a href="https://tiktok.com/@mh2hridoy__">
@@ -271,7 +271,7 @@
 <a href="https://discord.com/channels/1486291026498027572/1486291027349209099">
 <img src="https://cdn.simpleicons.org/discord" height="48"/>
 </a>
-<a href="https://x.com/@uigraslasu-png">
+<a href="https://x.com/@tomas0502">
 <img src="https://cdn.simpleicons.org/x" height="48"/>
 </a>
 <a href="https://www.youtube.com/@mh2_hridoy">
@@ -280,7 +280,7 @@
 <!-- <a href="mailto:uigraslasu@gmail.com">
 <img src="https://cdn.simpleicons.org/gmail" height="48"/>
 </a>
-<a href="[https://bsky.app/profile/uigraslasu-png.bsky.social](https://tomas-portfolio-xbiy.vercel.app/)">
+<a href="[https://bsky.app/profile/tomas0502.bsky.social](https://tomas-portfolio-xbiy.vercel.app/)">
 <img src="https://cdn.simpleicons.org/website" height="48"/>
 </a>
 <a href="https://discord.com/channels/1486291026498027572/1486291027349209099">
@@ -311,4 +311,4 @@ Small AI-based productivity and automation tools.
 
 ---
 
-⭐️ From [uigraslasu-png](https://github.com/uigraslasu-png)
+⭐️ From [tomas0502](https://github.com/tomas0502)
